@@ -2,6 +2,17 @@
 
 `npa-std` is the small standard-library package for NPA.
 
+`npa-std` is developed by
+[Finite Field K.K.](https://finitefield.org/en/) as part of the NPA project
+family.
+
+Related repositories:
+
+- [npa](https://github.com/finitefield-org/npa): kernel, certificate format,
+  checker, frontend, tactic, and package CLI
+- [npa-mathlib](https://github.com/finitefield-org/npa-mathlib): public
+  theorem-library package
+
 This repository contains the first public standard package:
 
 ```text
@@ -80,3 +91,10 @@ producer_profile = "std-library-legacy-core-builder"
 ```
 
 The source skeletons and metadata are not proof evidence.
+
+## License
+
+`npa-std` is licensed under the [Apache License 2.0](LICENSE).
+
+Copyright 2026 [Finite Field K.K.](https://finitefield.org/en/). See
+[NOTICE](NOTICE).
