@@ -33,7 +33,7 @@ schema = "npa.package.v0.1"
 Package CI builds `npa` from the SRA-02-compatible toolchain ref:
 
 ```text
-NPA_GIT_TAG = v0.1.1
+NPA_GIT_TAG = v0.2.0
 RUST_TOOLCHAIN_VERSION = 1.95.0
 ```
 
